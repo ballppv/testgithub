@@ -75,5 +75,6 @@ function App() {
   );
 }
 console.log("SSS version2")
+console.log("Report Sale")
 
 export default App;
