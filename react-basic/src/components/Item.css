@@ -1,0 +1,9 @@
+.Expense{
+    border-left: 8px solid rgb(245, 63, 63);
+    border-right: 8px solid rgb(245, 63, 63);
+}
+
+.Income{
+    border-left: 8px solid rgb(78, 247, 106);
+    border-right: 8px solid rgb(78, 247, 106);
+}
