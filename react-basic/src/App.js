@@ -74,5 +74,6 @@ function App() {
     </DataContext.Provider>
   );
 }
+console.log("SSS version2")
 
 export default App;
