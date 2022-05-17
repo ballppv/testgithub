@@ -74,8 +74,5 @@ function App() {
     </DataContext.Provider>
   );
 }
-console.log("SSS version2")
-console.log("Report Sale")
-console.log("LocalB")
 
 export default App;
